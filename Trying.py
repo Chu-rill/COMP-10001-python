@@ -9,3 +9,12 @@ for num in(numbers):
 
 print("the sum of all values in the list is: ",sum_value)
 
+
+FinalResult = True
+run1=8
+run2=10
+
+if run2%2==1:
+    if run1>=20:
+        FinalResult = False
+print(FinalResult)
