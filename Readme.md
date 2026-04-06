@@ -48,8 +48,8 @@ This repo is a learning exercise. The goal is to get comfortable with GitHub wor
 
 Add your name here when you join the repo!
 
-- 
-- 
+- Churchill
+- Yanique
 
 ---
 
