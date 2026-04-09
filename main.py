@@ -24,3 +24,7 @@ print(convert_temperature(32, "F", "C"))   # 0.0
 print(convert_temperature(300, "K", "C"))  # 26.85
 
 
+#Kandace
+t=5
+w=3
+print(w)
